@@ -1,0 +1,5 @@
+tsfel>=0.1.9
+pyunisens>=1.5.0
+openpyxl>=3.1.5
+xgboost>=2.1.3
+tqdm>=4.67.1
